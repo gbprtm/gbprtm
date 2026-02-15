@@ -3,9 +3,6 @@
   🎓 Mahasiswa Universitas Islam Riau <br>
   🌱 Sedang Mempelajari Web Development & Data
 </p>
-
----
-
 ### 🚀 Tentang Saya
 - 🌱 Exploring Web Development
 - ⚡ Tertarik dengan Networking
