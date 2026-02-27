@@ -5,4 +5,4 @@
 
 ### 🚀 Tentang Saya
 - 🌱 Exploring Web Development
-- ⚡ Tertarik dengan Networking
+- ⚡ Interested in Networking
